@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: KMAT_UpdateAssets_Jul11Project
+  gitServerName: KarthikGH
+  gitUrl: https://github.com/karthikbm/KMAT_UpdateAssets_Jul11Project
+  gitUsername: karthikbm
+  gitBranch: main
